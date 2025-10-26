@@ -1,6 +1,6 @@
-# U*i*-B*ind*-*Kit* 🎯 
+# 🎭 Ui 🔗 Bind 🛠 Kit 
 
-**UbKit** makes UI component binding as easy as Mockito makes mocking!
+🎯 **UbKit** makes UI component binding as easy as Mockito makes mocking!
 
 - **Framework-neutral**: Works with JSF, Swing, Vaadin, etc.
 - **Type-safe**: No casts, no getters – just clean OOP.
